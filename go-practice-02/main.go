@@ -3,14 +3,11 @@ package main
 import "fmt"
 
 func Stats(values []int) (min int, max int, average float64, ok bool) {
-
 }
 func GradeCounts(values []int) map[int]int {
-
 }
 
 func WordCounts(text string) map[string]int {
-
 }
 
 func main() {
