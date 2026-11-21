@@ -21,7 +21,7 @@ func main() {
 	fmt.Print("============================================ \n")
 	fmt.Print("TASK 2\n")
 	fmt.Print("============================================ \n")
-	//калькуряторв
+	//калькурятор
 	var a int = 6
 	var b int = 7
 	var operation string = "+"
